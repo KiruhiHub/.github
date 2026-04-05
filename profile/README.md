@@ -7,7 +7,6 @@
 Experience an operating system built for focus. A refined foundation designed to elevate your workflow without the noise.
 
 <a href="#">Documentation</a> · <a href="#">Download</a>
-![Uploading channels4_profile.jpg…]()
 
 ---
 
