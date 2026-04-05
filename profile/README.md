@@ -1,4 +1,4 @@
-<img src=".![channels4_profile](https://github.com/user-attachments/assets/0f866a7b-de35-4e93-8cc3-b79d48aeb6a0)" align="left" width="150"/>
+<img src="./profile.jpg" align="left" width="150"/>
 
 ### `Kiruhi OS`
 
