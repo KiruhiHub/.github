@@ -2,7 +2,6 @@
 
 ### <code>Kiruhi OS</code>
 Modern. High-performance. Minimalist.
-Focus on what matters. We’ll handle the rest.
 
 <p>
   <a href="#">
