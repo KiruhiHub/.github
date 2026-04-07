@@ -1,7 +1,7 @@
 <img src="./profile.jpg" align="left" width="150" style="margin-right: 20px;"/>
 
 ### <code>Kiruhi OS</code>
-**<code>//Modern. High-performance. Minimalist.</code>**
+**<code>Modern. High-performance. Minimalist.</code>**
 > *`"Focus on what matters. We’ll handle the rest."`*
 
 <p>
