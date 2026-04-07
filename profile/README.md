@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="./profile.jpg" width="120" />
-  <h2 align="center">Kiruhi OS</h2>
-  <p align="center">
-    <strong>Modern. High-performance. Minimalist.</strong><br>
-    <em>"Focus on what matters. We’ll handle the rest."</em>
-  </p>
-  <p align="center">
-    <a href="#"><b>Documentation</b></a> | <a href="#"><b>Download</b></a>
-  </p>
-</p>
+<img src="./profile.jpg" align="left" width="150"/>
+<h3> `Kiruhi OS`</h3>
+<p><strong>Modern. High-performance. Minimalist.</strong></p>
+<blockquote> <em>"Focus on what matters. We’ll handle the rest."</em></blockquote>
+<p><a href="#">Documentation</a> · <a href="#">Download</a></p>
+
+<br clear="left"/>
 <hr>
