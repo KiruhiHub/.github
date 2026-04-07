@@ -10,6 +10,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Download-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 <br clear="left"/>
