@@ -5,11 +5,13 @@ Modern  High-performance  Minimalist
 
 <p>
   <a href="#">
-    <img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=gitbook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;
+
   <a href="#">
-    <img src="https://img.shields.io/badge/Download-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/One--click%20Install-000000?style=for-the-badge&logo=download&logoColor=white" />
   </a>&nbsp;
+
   <a href="#">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
