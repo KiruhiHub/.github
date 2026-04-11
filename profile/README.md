@@ -1,7 +1,7 @@
 <img src="./profile.png" align="left" width="150" style="margin-right: 25px; border-radius: 12px;"/>
 
 ### <code>Kiruhi OS</code>
-<img src="./slogan.svg" height="25px" />
+<img src="./kiruhi.svg" height="25px" />
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
