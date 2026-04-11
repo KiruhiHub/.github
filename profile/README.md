@@ -1,7 +1,7 @@
 <img src="./profile.png" align="left" width="150" style="margin-right: 25px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.25);"/>
 
 ### <code>Kiruhi OS</code>
-Modern · High-performance · Minimalist
+Focus on speed
 
 <p>
   <a href="#">
