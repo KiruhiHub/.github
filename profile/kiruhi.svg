@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="30" fill="none">
+  <style>
+    .text { font-family: sans-serif; font-weight: bold; font-size: 16px; fill: #888; }
+    /* Varsayılan İngilizce */
+    .en { display: block; }
+    .tr { display: none; }
+
+    /* Tarayıcı dili Türkçe ise */
+    :lang(tr) .en { display: none; }
+    :lang(tr) .tr { display: block; }
+  </style>
+  <text x="0" y="20" class="text en">Focus on what matters.</text>
+  <text x="0" y="20" class="text tr">Önemli olana odaklan.</text>
+</svg>
