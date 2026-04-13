@@ -8,11 +8,11 @@
     <img src="https://img.shields.io/badge/Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://kiruhihub.github.io/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Install-111111?style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="#">
+  <a href="https://kiruhihub.github.io">
     <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
