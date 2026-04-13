@@ -19,7 +19,15 @@
 
 <br clear="left"/>
 
-# Why Kiruhi OS?
+<div style="display:flex; align-items:center; justify-content:space-between;">
+
+## Why Kiruhi OS?
+
+<a href="./screenshots/screenshots.md">
+  <img src="https://img.shields.io/badge/Gallery-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 <p style="display:flex; align-items:center; gap:10px;">
   <svg width="18" height="18" viewBox="0 0 24 24" fill="none"
