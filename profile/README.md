@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Install-111111?style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="https://kiruhihub.github.io">
+  <a href="https://kiruhi.netlify.app/">
     <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
