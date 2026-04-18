@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/KiruhiHub/kiruhios/releases/tag/PreAlpha">
+  <a href="https://github.com/KiruhiHub/kiruhios/releases/download/PreAlpha/kiruhi-2026.04.15-x86_64.iso">
     <img src="https://img.shields.io/badge/Install-111111?style=for-the-badge" />
   </a>
   &nbsp;
