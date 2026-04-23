@@ -23,7 +23,7 @@
 
 ## Why Kiruhi OS?
 
-<a href="./screenshots/screenshots.md">
+<a href="screenshots/screenshots.md">
   <img src="https://img.shields.io/badge/Gallery-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
