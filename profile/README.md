@@ -52,5 +52,5 @@
     stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
   </svg>
-  <strong This project was created using artificial intelligence </strong>
+  <strong> This project was created using artificial intelligence </strong>
 </p>
